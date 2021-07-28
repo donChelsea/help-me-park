@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">help-me-park</string>
+    <string name="street_parking">Street Parking</string>
+    <string name="indoor_garage">Indoor Garage</string>
+    <string name="outdoor_garage">Outdoor Garage</string>
+</resources>
