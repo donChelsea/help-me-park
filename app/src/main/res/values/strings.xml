@@ -3,4 +3,5 @@
     <string name="street_parking">Street Parking</string>
     <string name="indoor_garage">Indoor Garage</string>
     <string name="outdoor_garage">Outdoor Garage</string>
+    <string name="google_maps_key">AIzaSyA__YSz-DE9A_tlqNU68U8aS75yusXrKxs</string>
 </resources>
