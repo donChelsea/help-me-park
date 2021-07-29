@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
     private val homeFragment = HomeFragment()
     private val exploreFragment = ExploreFragment()
 
+    private val TAG = "MainActivity"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
